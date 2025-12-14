@@ -1,0 +1,12 @@
+Mật khẩu không chứa ký tự trùng loại
+Mục tiêu: luyện phân loại ký tự (chữ, số, đặc biệt).
+Yêu cầu: mật khẩu phải có ít nhất 1 ký tự của mỗi loại, và không có 2 ký tự liền kề cùng loại.Kiểm tra độ mạnh yếu của mật khẩu
+Mục tiêu: kết hợp tất cả kỹ năng đã học.
+Yêu cầu: người dùng nhập mật khẩu.
+ Chương trình kiểm tra và chấm điểm theo tiêu chí:
+Có chữ hoa (1 điểm)
+Có chữ thường (1 điểm)
+Có số (3 điểm)
+Có ký tự đặc biệt (2 điểm)
+Dài hơn 8 ký tự (1 điểm)
+ → Tổng điểm ≥ 8 → “Mạnh”, ngược lại → “Yếu”.
